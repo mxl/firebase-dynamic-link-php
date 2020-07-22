@@ -1,0 +1,41 @@
+{
+    "name": "mxl/firebase-dynamic-link",
+    "description": "Manually construct a Dynamic Link URL",
+    "keywords": [
+        "firebase",
+        "dynamic",
+        "link",
+        "manual",
+        "constructing"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/mxl/firebase-dynamic-link",
+    "support": {
+        "issues": "https://github.com/mxl/firebase-dynamic-link/issues",
+        "source": "https://github.com/mxl/firebase-dynamic-link"
+    },
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "authors": [
+        {
+            "name": "Michael Ledin",
+            "email": "mledin89@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MichaelLedin\\FirebaseDynamicLink\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MichaelLedin\\FirebaseDynamicLink\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable"
+}
