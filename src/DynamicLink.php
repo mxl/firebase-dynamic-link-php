@@ -101,4 +101,9 @@ class DynamicLink extends BaseBuilder
     {
         return 'https://' . $this->domain . '/?' . http_build_query($this->getData());
     }
+
+    public function __toString()
+    {
+        return $this->build();
+    }
 }
