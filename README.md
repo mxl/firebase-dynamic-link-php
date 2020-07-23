@@ -82,6 +82,6 @@ $dynamicLink = DynamicLink::for('your_subdomain.page.link', 'https://your_domain
 
 ## License
 
-See the [LICENSE](https://github.com/mxl/firebase-dynamic-link/blob/master/LICENSE) file for details.
+See the [LICENSE](https://github.com/mxl/firebase-dynamic-link-php/blob/master/LICENSE) file for details.
 
 
