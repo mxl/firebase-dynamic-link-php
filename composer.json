@@ -9,10 +9,10 @@
         "constructing"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/mxl/firebase-dynamic-link",
+    "homepage": "https://github.com/mxl/firebase-dynamic-link-php",
     "support": {
-        "issues": "https://github.com/mxl/firebase-dynamic-link/issues",
-        "source": "https://github.com/mxl/firebase-dynamic-link"
+        "issues": "https://github.com/mxl/firebase-dynamic-link-php/issues",
+        "source": "https://github.com/mxl/firebase-dynamic-link-php"
     },
     "type": "library",
     "require": {
